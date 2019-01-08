@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<!-- Ian Martin 991-495-094 -->
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Assignment 2</title>
+	<link rel="stylesheet" href="css/jquery.mobile.css">
+	<link rel="stylesheet" href="css/mystyle.css">
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mobile.js"></script>
+	<script src="js/myscript.js"></script>
+	<style></style>
+</head>
+
+<body>
+	<!-- Home Page -->
+	<div data-role="page" id="homePage">
+		<!-- header -->
+		<header data-role="header" id="showData">
+			<h1 class="ui-title" id="homeHeader"></h1>
+			<section id="data"></section>
+		</header>
+		<!-- main section -->
+		<section class="ui-content" role="main">
+			<section id="computers"></section>
+		</section>
+		<!-- footer -->
+		<footer data-role="footer" id="footer">
+			<nav data-role="navbar" id="navigation"></nav>
+		</footer>
+	</div>
+
+	<!-- Start of page for computers -->
+	<div data-role="page" id="individual" data-theme="a">
+		<header data-role="header">
+			<a href="#homePage" class="ui-btn ui-icon-home ui-btn-icon-left">Home</a>
+			<h1 class="ui-title" id="ind-Header"></h1>
+		</header>
+
+		<section class="ui-content" role="main">
+			<section id="ind-data"></section>
+		</section>
+	</div>
+</body>
+
+</html>

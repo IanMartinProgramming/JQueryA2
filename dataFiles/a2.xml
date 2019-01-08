@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<MARTI147>
+   <title>Assignment 2</title>
+   <studentNumber program="Computer Programming">991495094</studentNumber>
+   <studentName studentLogin="marti147">Ian Martin</studentName>
+   <!-- Computer stores -->
+   <computerStore>
+      <storeName url="http://www.staples.ca">Staples</storeName>
+      <storeIcon>staples.png</storeIcon>
+   </computerStore>
+   <computerStore>
+      <storeName url="http://www.canadacomputers.com">Canada Computers</storeName>
+      <storeIcon>canadacomputers.png</storeIcon>
+   </computerStore>
+   <computerStore>
+      <storeName url="http://www.bestbuy.ca">Best Buy</storeName>
+      <storeIcon>bestbuy.png</storeIcon>
+   </computerStore>
+   <!-- Computers & Information -->
+   <computer make='HP 14" Laptop - Natural Silver/Ash Silver'>
+      <price>$899.99</price>
+      <specs>
+         <ProcessorSpeed>1.6GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>256GB</HardDriveSize>
+      </specs>
+      <image>hp14laptop.jpg</image>
+   </computer>
+   <computer make='Dell Inspiron 15.6" Laptop - Black'>
+      <price>$469.97</price>
+      <specs>
+         <ProcessorSpeed>2.7GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>1TB</HardDriveSize>
+      </specs>
+      <image>dellinspiron156laptop.jpg</image>
+   </computer>
+   <computer make='Microsoft Surface 13.5" Touchscreen Laptop 2 - Platinum'>
+      <price>$1299.99</price>
+      <specs>
+         <ProcessorSpeed>1.6GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>128GB</HardDriveSize>
+      </specs>
+      <image>microsoftsurface135laptop.jpg</image>
+   </computer>
+   <computer make='Apple MacBook Air 13.3"'>
+      <price>$1199.99</price>
+      <specs>
+         <ProcessorSpeed>1.8GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>128GB</HardDriveSize>
+      </specs>
+      <image>applemacbookair133.jpg</image>
+   </computer>
+   <computer make='Apple MacBook Pro 13.3" Laptop'>
+      <price>$1729.99</price>
+      <specs>
+         <ProcessorSpeed>2.3GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>128GB</HardDriveSize>
+      </specs>
+      <image>applemacbookpro133.jpg</image>
+   </computer>
+   <computer make='HP Pavilion Gaming PC'>
+      <price>$1399.99</price>
+      <specs>
+         <ProcessorSpeed>3.6GHz</ProcessorSpeed>
+         <ram>16GB</ram>
+         <HardDriveSize>3TB</HardDriveSize>
+      </specs>
+      <image>hppaviliongamingpc.jpg</image>
+   </computer>
+   <computer make='Acer Nitro Gaming PC'>
+      <price>$999.99</price>
+      <specs>
+         <ProcessorSpeed>2.8GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>1TB</HardDriveSize>
+      </specs>
+      <image>acernitrogamingpc.jpg</image>
+   </computer>
+   <computer make='Acer Aspire TC Desktop PC'>
+      <price>$799.99</price>
+      <specs>
+         <ProcessorSpeed>2.8GHz</ProcessorSpeed>
+         <ram>8GB</ram>
+         <HardDriveSize>2TB</HardDriveSize>
+      </specs>
+      <image>aceraspiredesktoppc.jpg</image>
+   </computer>
+</MARTI147>

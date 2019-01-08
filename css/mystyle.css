@@ -1,0 +1,14 @@
+li {
+   list-style: none;
+}
+
+img {
+   display: block;
+   margin: auto;
+}
+
+#thisComputer {
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 1.5em;
+}
